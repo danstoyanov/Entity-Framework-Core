@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IzezeVy5yoz7/z2ZaAtpg8sAhOISmJGzaL4l8Q+qvWzPy7uI9oRUO0OTLZhm1Tm82jamU/j0f5pOBZXFaqxlpA==",
+  "dgSpecHash": "9gdl1FkqeyXVRi+G0KbRM+/ZcipzLgPUiuy9ovUCfdkKIeHGDZ0+wnO2Q9HUdp5ddKeIyM/EzWoM8shyeUPb8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj",
+  "projectFilePath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj": {}
+    "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj": {
+    "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj",
+        "projectUniqueName": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj",
         "projectName": "Demo EF Core",
-        "projectPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj",
+        "projectPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\Demo EF Core.csproj",
         "packagesPath": "C:\\Users\\dakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\obj\\",
+        "outputPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\Demo EF Core\\Demo EF Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
