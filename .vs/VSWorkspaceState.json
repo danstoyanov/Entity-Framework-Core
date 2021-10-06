@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\01. ADO.NET - Exercise",
+    "\\01. ADO.NET - Exercise\\Demo - Insert into tables\\bin\\Debug\\netcoreapp3.1"
   ],
-  "SelectedNode": "\\Demo EF Core.sln",
+  "SelectedNode": "\\01. ADO.NET - Exercise\\Demo - Insert into tables",
   "PreviewInSolutionExplorer": false
 }
