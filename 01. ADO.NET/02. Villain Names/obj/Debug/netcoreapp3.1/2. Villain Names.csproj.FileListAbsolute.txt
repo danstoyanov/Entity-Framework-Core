@@ -1,0 +1,67 @@
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\2. Villain Names.exe
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\2. Villain Names.deps.json
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\2. Villain Names.runtimeconfig.json
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\2. Villain Names.runtimeconfig.dev.json
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\2. Villain Names.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\2. Villain Names.pdb
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\obj\Debug\netcoreapp3.1\2. Villain Names.csproj.AssemblyReference.cache
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\obj\Debug\netcoreapp3.1\2. Villain Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\obj\Debug\netcoreapp3.1\2. Villain Names.AssemblyInfoInputs.cache
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\obj\Debug\netcoreapp3.1\2. Villain Names.AssemblyInfo.cs
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\obj\Debug\netcoreapp3.1\2. Villain Names.csproj.CoreCompileInputs.cache
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\obj\Debug\netcoreapp3.1\2. Villain Names.csproj.CopyComplete
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\obj\Debug\netcoreapp3.1\2. Villain Names.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\obj\Debug\netcoreapp3.1\2. Villain Names.pdb
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\obj\Debug\netcoreapp3.1\2. Villain Names.genruntimeconfig.cache
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dakov\OneDrive\Desktop\My Folder\Entity Framework Core - Oct 2021\4. ADO.NET - Exercise\ADO.NET - Exercise\2. Villain Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
