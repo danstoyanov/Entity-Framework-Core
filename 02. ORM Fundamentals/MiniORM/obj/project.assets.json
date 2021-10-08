@@ -5040,11 +5040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dakov\\OneDrive\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\6. ORM Fundamentals - Exercise\\MiniORM - Demo\\MiniORM\\MiniORM.csproj",
+      "projectUniqueName": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\02. ORM Fundamentals\\MiniORM\\MiniORM.csproj",
       "projectName": "MiniORM",
-      "projectPath": "C:\\Users\\dakov\\OneDrive\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\6. ORM Fundamentals - Exercise\\MiniORM - Demo\\MiniORM\\MiniORM.csproj",
+      "projectPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\02. ORM Fundamentals\\MiniORM\\MiniORM.csproj",
       "packagesPath": "C:\\Users\\dakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dakov\\OneDrive\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\6. ORM Fundamentals - Exercise\\MiniORM - Demo\\MiniORM\\obj\\",
+      "outputPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\02. ORM Fundamentals\\MiniORM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dakov\\AppData\\Roaming\\NuGet\\NuGet.Config",

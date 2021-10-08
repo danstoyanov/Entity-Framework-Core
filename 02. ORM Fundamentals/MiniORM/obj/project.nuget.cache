@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGT5n4iAoq1g3DyUC3KLM6d7AQoJCNuzEn9jqVOj3JGA52Ajh7qJWIrbYh6qeUjqvAdOdtawZ/v9ELDRi1jbhQ==",
+  "dgSpecHash": "ueLDfoVqJw+XQM4DajYKSgt92433o7rhERCmCLlThStaLLgvwvI8Fllx6aMfw1sBHVncb6QRtHWLmRNf//AS5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dakov\\OneDrive\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\6. ORM Fundamentals - Exercise\\MiniORM - Demo\\MiniORM\\MiniORM.csproj",
+  "projectFilePath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\02. ORM Fundamentals\\MiniORM\\MiniORM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dakov\\.nuget\\packages\\jetbrains.annotations\\10.2.1\\jetbrains.annotations.10.2.1.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
