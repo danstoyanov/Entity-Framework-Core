@@ -46,4 +46,3 @@ C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framewo
 C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\obj\Debug\netcoreapp3.1\02. Database First.csproj.CopyComplete

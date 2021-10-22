@@ -1,0 +1,5 @@
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\01. Import SoftUni Data\obj\Debug\netcoreapp3.1\01. Import SoftUni Data.csproj.AssemblyReference.cache
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\01. Import SoftUni Data\obj\Debug\netcoreapp3.1\01. Import SoftUni Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\01. Import SoftUni Data\obj\Debug\netcoreapp3.1\01. Import SoftUni Data.AssemblyInfoInputs.cache
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\01. Import SoftUni Data\obj\Debug\netcoreapp3.1\01. Import SoftUni Data.AssemblyInfo.cs
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\01. Import SoftUni Data\obj\Debug\netcoreapp3.1\01. Import SoftUni Data.csproj.CoreCompileInputs.cache
