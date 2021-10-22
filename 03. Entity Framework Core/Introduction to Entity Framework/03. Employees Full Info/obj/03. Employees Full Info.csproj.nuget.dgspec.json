@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\03. Employees Full Info.csproj": {}
+    "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\03. Employees Full Info.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\03. Employees Full Info.csproj": {
+    "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\03. Employees Full Info.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\03. Employees Full Info.csproj",
+        "projectUniqueName": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\03. Employees Full Info.csproj",
         "projectName": "03. Employees Full Info",
-        "projectPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\03. Employees Full Info.csproj",
+        "projectPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\03. Employees Full Info.csproj",
         "packagesPath": "C:\\Users\\dakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\obj\\",
+        "outputPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\03. Employees Full Info\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dakov\\AppData\\Roaming\\NuGet\\NuGet.Config",

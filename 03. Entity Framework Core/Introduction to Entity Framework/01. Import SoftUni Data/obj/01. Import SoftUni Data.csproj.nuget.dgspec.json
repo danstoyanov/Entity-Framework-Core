@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\01. Import SoftUni Data.csproj": {}
+    "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\01. Import SoftUni Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\01. Import SoftUni Data.csproj": {
+    "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\01. Import SoftUni Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\01. Import SoftUni Data.csproj",
+        "projectUniqueName": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\01. Import SoftUni Data.csproj",
         "projectName": "01. Import SoftUni Data",
-        "projectPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\01. Import SoftUni Data.csproj",
+        "projectPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\01. Import SoftUni Data.csproj",
         "packagesPath": "C:\\Users\\dakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\obj\\",
+        "outputPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\01. Import SoftUni Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
