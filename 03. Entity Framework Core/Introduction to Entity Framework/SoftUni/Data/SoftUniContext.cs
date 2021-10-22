@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace SoftUni.Data.Models
+namespace SoftUni.Data
 {
     public partial class SoftUniContext : DbContext
     {
