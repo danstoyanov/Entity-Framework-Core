@@ -1,0 +1,14 @@
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\bin\Debug\netcoreapp3.1\02. Database First.exe
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\bin\Debug\netcoreapp3.1\02. Database First.deps.json
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\bin\Debug\netcoreapp3.1\02. Database First.runtimeconfig.json
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\bin\Debug\netcoreapp3.1\02. Database First.runtimeconfig.dev.json
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\bin\Debug\netcoreapp3.1\02. Database First.dll
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\bin\Debug\netcoreapp3.1\02. Database First.pdb
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\obj\Debug\netcoreapp3.1\02. Database First.csproj.AssemblyReference.cache
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\obj\Debug\netcoreapp3.1\02. Database First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\obj\Debug\netcoreapp3.1\02. Database First.AssemblyInfoInputs.cache
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\obj\Debug\netcoreapp3.1\02. Database First.AssemblyInfo.cs
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\obj\Debug\netcoreapp3.1\02. Database First.csproj.CoreCompileInputs.cache
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\obj\Debug\netcoreapp3.1\02. Database First.dll
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\obj\Debug\netcoreapp3.1\02. Database First.pdb
+C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\03. Entity Framework Core\Introduction to Entity Framework\02. Database First\obj\Debug\netcoreapp3.1\02. Database First.genruntimeconfig.cache
