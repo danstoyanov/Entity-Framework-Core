@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wj1/NO9E4C82OTSn6LcImsPVbQV7hBrik0KCQT9a/zMeuGHTgEJOC1qGuaT72QhGIXABwz1a/n1ZAP32FTycDA==",
+  "dgSpecHash": "zCN9tMRYpqXwd8xhYmiSzImGU2nkpCwZH/1BCvZmH/18tkiiVFfoTBR7DyZsEkveXSueo1cRo1T7AlhtQvPvrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\02. Database First\\02. Database First.csproj",
   "expectedPackageFiles": [
@@ -129,7 +129,8 @@
     "C:\\Users\\dakov\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\dakov\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\dakov\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\dakov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
   ],
   "logs": []
 }
