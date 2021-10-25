@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\03. Entity Framework Core",
+    "\\03. Entity Framework Core\\Introduction to Entity Framework",
+    "\\03. Entity Framework Core\\Introduction to Entity Framework\\SoftUni"
   ],
-  "SelectedNode": "\\Introduction to Entity Framework.sln",
+  "SelectedNode": "\\03. Entity Framework Core\\Introduction to Entity Framework\\SoftUni\\SoftUni.csproj",
   "PreviewInSolutionExplorer": false
 }
