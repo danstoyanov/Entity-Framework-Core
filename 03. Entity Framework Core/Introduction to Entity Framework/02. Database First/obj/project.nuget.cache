@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qsM2IGXLJoilEaPwKl2btg/QrB6p//nYHhTECdZFCKk+UcaQrGI0ZaR8ALkRYptImnljHpVY5lcc3H6LXvEmow==",
+  "dgSpecHash": "bh3uPWYVqwa+BMXyeE9bOgD5t+kLylEwlDzw1yv6fEI1PXepl56YBKj2febjk2Oxo+UHMT4XBeQezRJfVF5sfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\02. Database First\\02. Database First.csproj",
+  "projectFilePath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\02. Database First\\SoftUni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dakov\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

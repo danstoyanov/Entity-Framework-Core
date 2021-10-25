@@ -6889,11 +6889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\02. Database First\\02. Database First.csproj",
-      "projectName": "02. Database First",
-      "projectPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\02. Database First\\02. Database First.csproj",
+      "projectUniqueName": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\02. Database First\\SoftUni.csproj",
+      "projectName": "SoftUni",
+      "projectPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\02. Database First\\SoftUni.csproj",
       "packagesPath": "C:\\Users\\dakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\02. Database First\\obj\\",
+      "outputPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\03. Entity Framework Core\\Introduction to Entity Framework\\02. Database First\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
