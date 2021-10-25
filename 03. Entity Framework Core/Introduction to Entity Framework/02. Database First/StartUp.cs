@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace _02._Database_First
+namespace SoftUni
 {
     public class StartUp
     {
-        static void Main()
+        public static void Main()
         {
 
         }
