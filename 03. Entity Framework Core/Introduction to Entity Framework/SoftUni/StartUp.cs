@@ -293,7 +293,7 @@ namespace SoftUni
             {
                 result.AppendLine(project.Name);
                 result.AppendLine(project.Description);
-                result.AppendLine(project.StartDate.ToString());
+                result.AppendLine(project.StartDate.ToString("M/d/yyyy h:mm:ss tt", CultureInfo.InvariantCulture));
             }
 
             return result.ToString().Trim();
