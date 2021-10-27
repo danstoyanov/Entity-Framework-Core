@@ -332,6 +332,10 @@ namespace SoftUni
 
             return result.ToString().TrimEnd();
         }
+
+        // 13. Find Employees by First Name Starting With Sa
+        // 14. Delete Project by Id
+        // 15. Remove Town
     }
 }
 
