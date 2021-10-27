@@ -309,7 +309,7 @@ namespace SoftUni
             {
                 "Engineering",
                 "Tool Design",
-                "Marketing ",
+                "Marketing",
                 "Information Services"
             };
 
@@ -327,7 +327,7 @@ namespace SoftUni
 
             foreach (var empl in employees)
             {
-                result.AppendLine($"{empl.FirstName} {empl.LastName} $({empl.Salary:F2})");
+                result.AppendLine($"{empl.FirstName} {empl.LastName} (${empl.Salary:F2})");
             }
 
             return result.ToString().TrimEnd();
