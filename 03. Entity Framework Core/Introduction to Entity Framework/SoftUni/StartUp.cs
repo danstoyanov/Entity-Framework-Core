@@ -286,11 +286,14 @@ namespace SoftUni
                     p.Description,
                     p.StartDate
                 })
+                .Take(10)
                 .ToList();
 
             foreach (var project in projects)
             {
+                result.AppendLine(project.Name);
                 result.AppendLine(project.Description);
+                result.AppendLine(project.StartDate.ToString());
             }
 
             return result.ToString().Trim();
