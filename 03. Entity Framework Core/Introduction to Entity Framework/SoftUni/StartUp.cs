@@ -280,13 +280,15 @@ namespace SoftUni
             var result = new StringBuilder();
 
             var projects = context.Projects
+                .OrderByDescending(p => p.StartDate)
+                .Take(10)
+                .OrderBy(p => p.Name)
                 .Select(p => new
                 {
                     p.Name,
                     p.Description,
                     p.StartDate
                 })
-                .Take(10)
                 .ToList();
 
             foreach (var project in projects)
