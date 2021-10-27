@@ -13,7 +13,7 @@ namespace SoftUni
         public static void Main()
         {
             var softUniContext = new SoftUniContext();
-            var currResult = GetDepartmentsWithMoreThan5Employees(softUniContext);
+            var currResult = GetLatestProjects(softUniContext);
             Console.WriteLine(currResult);
         }
 
@@ -279,7 +279,19 @@ namespace SoftUni
         {
             var result = new StringBuilder();
 
+            var projects = context.Projects
+                .Select(p => new
+                {
+                    p.Name,
+                    p.Description,
+                    p.StartDate
+                })
+                .ToList();
 
+            foreach (var project in projects)
+            {
+                result.AppendLine(project.Description);
+            }
 
             return result.ToString().Trim();
         }
