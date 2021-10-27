@@ -13,7 +13,7 @@ namespace SoftUni
         public static void Main()
         {
             var softUniContext = new SoftUniContext();
-            var currResult = GetLatestProjects(softUniContext);
+            var currResult = IncreaseSalaries(softUniContext);
             Console.WriteLine(currResult);
         }
 
@@ -299,6 +299,38 @@ namespace SoftUni
             }
 
             return result.ToString().Trim();
+        }
+
+        // 12. Increase Salaries
+        public static string IncreaseSalaries(SoftUniContext context)
+        {
+            var result = new StringBuilder();
+            var departments = new[]
+            {
+                "Engineering",
+                "Tool Design",
+                "Marketing ",
+                "Information Services"
+            };
+
+            var employees = context.Employees
+                .Where(e => departments.Contains(e.Department.Name))
+                .OrderBy(e => e.FirstName)
+                .ThenBy(e => e.LastName)
+                .ToList();
+
+            foreach (var employee in employees)
+            {
+                employee.Salary *= 1.12m;
+            }
+            context.SaveChanges();
+
+            foreach (var empl in employees)
+            {
+                result.AppendLine($"{empl.FirstName} {empl.LastName} $({empl.Salary:F2})");
+            }
+
+            return result.ToString().TrimEnd();
         }
     }
 }
