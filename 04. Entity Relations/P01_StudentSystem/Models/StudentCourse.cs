@@ -2,9 +2,9 @@
 using System.Text;
 using System.Collections.Generic;
 
-namespace P01_StudentSystem.Data
+namespace P01_StudentSystem.Models
 {
-    public class StudentSystemContext
+    public class StudentCourse
     {
 
     }

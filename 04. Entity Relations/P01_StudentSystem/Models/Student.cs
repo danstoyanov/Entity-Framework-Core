@@ -1,10 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
+using System.Collections.Generic;
 
 namespace P01_StudentSystem.Models
 {
-    class Student
+    public class Student
     {
+
     }
 }
