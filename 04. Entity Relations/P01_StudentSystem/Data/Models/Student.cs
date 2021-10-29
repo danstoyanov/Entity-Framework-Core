@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace P01_StudentSystem.Models
+namespace P01_StudentSystem.Data.Models
 {
-    public class Course
+    public class Student
     {
         public int StudentId { get; set; }
         public string Name { get; set; }
