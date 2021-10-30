@@ -9,7 +9,11 @@ namespace P01_StudentSystem
         public static void Main()
         {
             // test insert in database 
-
+            // migrations in EF Core !
+            // 
+            // 
+            // 
+            
             var db = new StudentSystemContext();
             db.Database.EnsureDeleted();
             db.Database.EnsureCreated();

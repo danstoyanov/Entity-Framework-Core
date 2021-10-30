@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj": {}
+    "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj": {
+    "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
+        "projectUniqueName": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
         "projectName": "P01_StudentSystem",
-        "projectPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
+        "projectPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
         "packagesPath": "C:\\Users\\dakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\obj\\",
+        "outputPath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P01_StudentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
