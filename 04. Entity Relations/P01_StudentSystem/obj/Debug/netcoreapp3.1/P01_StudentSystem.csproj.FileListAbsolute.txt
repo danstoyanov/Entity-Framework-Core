@@ -44,4 +44,3 @@ C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\04. Entity Relatio
 C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\04. Entity Relations\P01_StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\04. Entity Relations\P01_StudentSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\04. Entity Relations\P01_StudentSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\dakov\source\repos\danstoyanov\Entity-Framework-Core\04. Entity Relations\P01_StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csproj.CopyComplete

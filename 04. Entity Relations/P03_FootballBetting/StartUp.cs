@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace P03_FootballBetting
+﻿namespace P03_FootballBetting
 {
     public class StartUp
     {
