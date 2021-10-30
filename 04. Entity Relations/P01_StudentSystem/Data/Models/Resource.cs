@@ -7,10 +7,11 @@ namespace P01_StudentSystem.Data.Models
         public int  ResourceId { get; set; }
 
         [Required]
-        [MaxLength(100)]
+        [MaxLength(50)]
         public string Name { get; set; }
         public string  Url { get; set; }
-        public string ResourceType { get; set; }
-        public int  CourseId { get; set; }
+        public ResourceType ResourceType { get; set; }
+        public int CourseId { get; set; }
+        public Course Course { get; set;  }
     }
 }
