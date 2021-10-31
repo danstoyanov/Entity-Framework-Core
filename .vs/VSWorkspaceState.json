@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\04. Entity Relations"
+    "\\04. Entity Relations",
+    "\\04. Entity Relations\\P01_StudentSystem",
+    "\\04. Entity Relations\\P03_FootballBetting",
+    "\\04. Entity Relations\\P03_FootballBetting\\Data"
   ],
-  "SelectedNode": "\\04. Entity Relations\\04. Entity Relations.sln",
+  "SelectedNode": "\\04. Entity Relations\\P03_FootballBetting\\Data\\FootballBettingContext.cs",
   "PreviewInSolutionExplorer": false
 }

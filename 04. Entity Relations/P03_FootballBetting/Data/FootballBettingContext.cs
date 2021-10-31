@@ -6,7 +6,7 @@ namespace P03_FootballBetting.Data
 {
     public class FootballBettingContext : DbContext
     {
-        protected FootballBettingContext()
+        public FootballBettingContext()
         {
 
         }
@@ -48,6 +48,22 @@ namespace P03_FootballBetting.Data
                 x.HasOne(x => x.SecondaryKitColor)
                 .WithMany(x => x.SecondaryKitTeams)
                 .HasForeignKey(x => x.SecondaryKitColorId);
+            });
+
+            modelBuilder.Entity<Game>(x =>
+            {
+                x.HasOne(x => x.HomeTeam)
+                .WithMany(x => x.HomeGames)
+                .HasForeignKey(x => x.HomeTeamId);
+
+                x.HasOne(x => x.AwayTeam)
+                .WithMany(x => x.AwayGames)
+                .HasForeignKey(x => x.AwayTeamId);
+            });
+
+            modelBuilder.Entity<PlayerStatistic>(x =>
+            {
+                x.HasKey(x => new { x.PlayerId, x.GameId });
             });
 
             base.OnModelCreating(modelBuilder);
