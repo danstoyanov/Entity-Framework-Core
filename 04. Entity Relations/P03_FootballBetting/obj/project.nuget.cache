@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9DwVBPOV5kwHJPL2U1WAyd0t5X2iu41JU+TLcQkYyFKUQy14QUnSbFiU87H4xCHrLgJlDQVmRrffkOXFLvrUpA==",
+  "dgSpecHash": "17Gh+3OFx3tWfJ+zhGLko1WONZ62CZyAfJIs26qnEbWXnbO6bPQIvFrP0T4O+7Zpg06/o/+L+QNH1/hPSBSFVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dakov\\source\\repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P03_FootballBetting\\P03_FootballBetting.csproj",
+  "projectFilePath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\04. Entity Relations\\P03_FootballBetting\\P03_FootballBetting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dakov\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -90,8 +90,7 @@
     "C:\\Users\\dakov\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\dakov\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\dakov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+    "C:\\Users\\dakov\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
