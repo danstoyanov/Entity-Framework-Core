@@ -18,6 +18,6 @@ namespace MusicHub.Data.Models
 
         public string Pseudonym { get; set; }
         public string PhoneNumber { get; set; }
-        public virtual ICollection<Album> Albums { get; set; }
+        public ICollection<Album> Albums { get; set; }
     }
 }

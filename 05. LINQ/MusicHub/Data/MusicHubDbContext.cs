@@ -22,7 +22,7 @@ namespace MusicHub.Data
         public DbSet<Performer> Performers { get; set; }
         public DbSet<Producer> Producers { get; set; }
         public DbSet<Song> Songs { get; set; }
-        public DbSet<SongPerformer> SongPerformers { get; set; }
+        public DbSet<SongPerformer> SongsPerformers { get; set; }
         public DbSet<Writer> Writers { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -41,19 +41,19 @@ namespace MusicHub.Data
                 x.HasKey(x => new { x.PerformerId, x.SongId });
             });
 
-            builder.Entity<SongPerformer>(x =>
-            {
-                x.HasOne(e => e.Song)
-                .WithMany(s => s.SongPerformers)
-                .HasForeignKey(e => e.SongId);
-            });
-
-            builder.Entity<SongPerformer>(x =>
-            {
-                x.HasOne(e => e.Performer)
-                .WithMany(s => s.PerformerSongs)
-                .HasForeignKey(e => e.PerformerId);
-            });
+    //    builder.Entity<SongPerformer>(x =>
+    //    {
+    //        x.HasOne(e => e.Song)
+    //        .WithMany(s => s.SongPerformers)
+    //        .HasForeignKey(e => e.SongId);
+    //    });
+    //
+    //    builder.Entity<SongPerformer>(x =>
+    //    {
+    //        x.HasOne(e => e.Performer)
+    //        .WithMany(s => s.PerformerSongs)
+    //        .HasForeignKey(e => e.PerformerId);
+    //    });
         }
     }
 }

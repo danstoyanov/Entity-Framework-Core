@@ -2,10 +2,10 @@
 {
     public enum Genre
     {
-        Blues = 10,
-        Rap = 20,
-        PopMusic = 30,
-        Rock = 40,
-        Jazz = 50
+        Blues = 0,
+        Rap = 1,
+        PopMusic = 2,
+        Rock = 3,
+        Jazz = 4
     }
 }

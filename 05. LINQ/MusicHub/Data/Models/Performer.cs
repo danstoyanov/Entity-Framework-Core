@@ -20,11 +20,8 @@ namespace MusicHub.Data.Models
         [MaxLength(20)]
         public string LastName { get; set; }
 
-        [Required]
         public int Age { get; set; }
-
-        [Required]
         public decimal NetWorth { get; set; }
-        public virtual ICollection<SongPerformer> PerformerSongs { get; set; }
+        public ICollection<SongPerformer> PerformerSongs { get; set; }
     }
 }
