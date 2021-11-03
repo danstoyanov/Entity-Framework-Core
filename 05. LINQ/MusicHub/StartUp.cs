@@ -18,7 +18,7 @@
             // Console.WriteLine(ExportAlbumsInfo(context, 9));
 
             // Test output with => ExportSongsAboveDuration()
-            Console.WriteLine(ExportSongsAboveDuration(context, 4));
+            // Console.WriteLine(ExportSongsAboveDuration(context, 4));
         }
 
         public static string ExportAlbumsInfo(MusicHubDbContext context, int producerId)
