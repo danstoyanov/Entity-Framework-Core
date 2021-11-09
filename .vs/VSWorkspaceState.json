@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\04. Entity Relations\\P03_FootballBetting\\Data",
-    "\\05. LINQ\\MusicHub"
+    "\\06. Advanced Querying",
+    "\\08. JSON Processing"
   ],
-  "SelectedNode": "\\05. LINQ",
+  "SelectedNode": "\\06. Advanced Querying\\BookShop.sln",
   "PreviewInSolutionExplorer": false
 }
