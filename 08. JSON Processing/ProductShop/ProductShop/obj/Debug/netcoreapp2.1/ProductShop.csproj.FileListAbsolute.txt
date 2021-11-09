@@ -1,0 +1,13 @@
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
