@@ -154,7 +154,7 @@ namespace ProductShop
                 {
                     category = c.Name,
                     productsCount = c.CategoryProducts.Count(),
-                    averagePrice = c.CategoryProducts.Average(p => p.Product.Price).ToString("N2"),
+                    averagePrice = c.CategoryProducts.Average(p => p.Product.Price).ToString("F2"),
                     totalRevenue = c.CategoryProducts.Sum(p => p.Product.Price).ToString()
                 })
                 .OrderByDescending(c => c.productsCount)

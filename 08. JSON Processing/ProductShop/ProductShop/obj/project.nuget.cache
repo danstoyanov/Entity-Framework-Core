@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+pQb4JmL0jh3Er5OCy9qZBMYcHuw+8IRK4mFkRZIHmAvxwvldpWzlDbvRGA4/eeJWvrJ8IAnV76YQXzsjGQXKQ==",
+  "dgSpecHash": "1p9+MnCRbo84DYm54ReVNt+9fjDxqeNFcCmE80GPFkIsxRb+ZTFUzGvKY8Va8nFr34oy28Bjc+nyyL+QzbDCgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dakov\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\18. JSON Processing - Exercise\\ProductShop\\ProductShop\\ProductShop.csproj",
+  "projectFilePath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\08. JSON Processing\\ProductShop\\ProductShop\\ProductShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dakov\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
