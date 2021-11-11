@@ -44,7 +44,7 @@ namespace ProductShop
             ////  problem 8
             //  Console.WriteLine(GetCategoriesByProductsCount(context));
 
-            ////  problem 9 => NOT FINISHED !!!
+            ////  problem 9 
             //Console.WriteLine(GetUsersWithProducts(context));
         }
 
@@ -166,44 +166,41 @@ namespace ProductShop
         }
         public static string GetUsersWithProducts(ProductShopContext context)
         {
-          // var currUsersWithProd = context.Users
-          //     .Where(userProd => userProd.ProductsSold.Any(prod => prod.Buyer != null))
-          //     .Include(c => c.ProductsSold)
-          //     .OrderByDescending(usersProd => usersProd.ProductsSold.Count(p => p.Buyer != null))
-          //     .ToList()
-          //     .Select(u => new
-          //     {
-          //         lastName = u.LastName,
-          //         age = u.Age,
-          //         soldProducts = new
-          //         {
-          //             count = u.ProductsSold.Count(p => p.Buyer != null),
-          //             products = u.ProductsSold
-          //             .ToList()
-          //             .Where(p => p.Buyer != null)
-          //             .Select(p => new
-          //             {
-          //                 name = p.Name,
-          //                 price = p.Price
-          //             })
-          //             .ToList()
-          //         }
-          //     })
-          //     .ToList();
-          //
-          // var result = new
-          // {
-          //     usersCount = currUsersWithProd.Count,
-          //     users = currUsersWithProd
-          // };
-          //
-          // var json = JsonConvert.SerializeObject(result, new JsonSerializerSettings
-          // {
-          //     Formatting = Formatting.Indented,
-          //     NullValueHandling = NullValueHandling.Ignore
-          // });
+            var currUsersWithProd = context.Users
+                .Include(c => c.ProductsSold) // <<<<< Only for Judge !!!!
+                .ToList()                     // <<<<< Only for Judge !!!!
+                .Where(userProd => userProd.ProductsSold.Any(prod => prod.BuyerId != null))
+                .Select(u => new
+                {
+                    firstName = u.FirstName,
+                    lastName = u.LastName,
+                    age = u.Age,
+                    soldProducts = new
+                    {
+                        count = u.ProductsSold.Where(p => p.BuyerId != null).Count(),
+                        products = u.ProductsSold.Where(p => p.BuyerId != null).Select(p => new
+                        {
+                            name = p.Name,
+                            price = p.Price
+                        })
+                    }
+                })
+                .OrderByDescending(p => p.soldProducts.products.Count())
+                .ToList();
 
-            return "";
+            var result = new
+            {
+                usersCount = currUsersWithProd.Count(),
+                users = currUsersWithProd
+            };
+
+            var reusltJson = JsonConvert.SerializeObject(result, new JsonSerializerSettings
+            {
+                Formatting = Formatting.Indented,
+                NullValueHandling = NullValueHandling.Ignore
+            });
+
+            return reusltJson;
         }
     }
 }

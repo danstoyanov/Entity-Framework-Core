@@ -11,3 +11,16 @@ C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Proce
 C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.pdb
 C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.genruntimeconfig.cache
 C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\18. JSON Processing - Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.csproj.AssemblyReference.cache
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1.0\ProductShop.deps.json
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1.0\ProductShop.runtimeconfig.json
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1.0\ProductShop.runtimeconfig.dev.json
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1.0\ProductShop.dll
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1.0\ProductShop.pdb
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.csproj.AssemblyReference.cache
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.AssemblyInfoInputs.cache
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.AssemblyInfo.cs
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.dll
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.pdb
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\08. JSON Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1.0\ProductShop.genruntimeconfig.cache
