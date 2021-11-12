@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\08. JSON Processing",
+    "\\09. XML Processing"
   ],
-  "SelectedNode": "\\05. LINQ",
+  "SelectedNode": "\\09. XML Processing",
   "PreviewInSolutionExplorer": false
 }
