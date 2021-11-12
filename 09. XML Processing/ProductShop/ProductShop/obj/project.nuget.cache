@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pzcJDAmD7XCINcKZDv+Y/up2yEVd7K9dyTUtQS8PEeix8vBVzgCcC9rJIGpxgnIFRnAH/oDX57kSRW8DymnCHQ==",
+  "dgSpecHash": "BB5Qq+Tm3out9OyEVXe+1D3DNQTmbBWpqQerYB+LAe9xkdM1svAMGCekkjIFv4NHxGM/C20YBrJhHxEVsULDYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dakov\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\20. XML Processing - Exercise\\ProductShop\\ProductShop\\ProductShop.csproj",
+  "projectFilePath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\Entity-Framework-Core\\09. XML Processing\\ProductShop\\ProductShop\\ProductShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dakov\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
