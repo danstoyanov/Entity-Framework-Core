@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using AutoMapper;
 using CarDealer.Data;
+using CarDealer.DTO;
 using CarDealer.Models;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
@@ -27,7 +28,7 @@ namespace CarDealer
             //  var inputParts = File.ReadAllText("../../../Datasets/parts.json");
             //  Console.WriteLine(ImportParts(context, inputParts));
 
-            //  problem 11 => NOT FINISHED !!!
+            //  problem 11 
             //  var inputCars = File.ReadAllText("../../../Datasets/cars.json");
             //  Console.WriteLine(ImportCars(context, inputCars));
 
@@ -35,7 +36,7 @@ namespace CarDealer
             //  var inputCustomers = File.ReadAllText("../../../Datasets/customers.json");
             //  Console.WriteLine(ImportCustomers(context, inputCustomers));
 
-            //  problem 13 => NOT FINISHED !!!
+            //  problem 13 
             //  var inputSales = File.ReadAllText("../../../Datasets/sales.json");
             //  Console.WriteLine(ImportSales(context, inputSales));
 
@@ -97,38 +98,36 @@ namespace CarDealer
         public static string ImportCars(CarDealerContext context, string inputJson)
         {
             var result = new StringBuilder();
-            var inputCarsData = JsonConvert.DeserializeObject<List<ImportCarDto>>(inputJson)
-                .ToList();
+            var inputCarsData = JsonConvert.DeserializeObject<List<CarInputModel>>(inputJson);
 
             var cars = new List<Car>();
 
-            foreach (var car in inputCarsData)
+            foreach (var carData in inputCarsData)
             {
-                var currentCar = new Car
+                var car = new Car()
                 {
-                    Make = car.Make,
-                    Model = car.Model,
-                    TravelledDistance = car.TravelledDistance
+                    Make = carData.Make,
+                    Model = carData.Model,
+                    TravelledDistance = carData.TravelledDistance
                 };
 
-                foreach (var part in car.PartCars)
+                foreach (int partId in carData.PartsId.Distinct())
                 {
-                    PartCar partCar = new PartCar
+                    car.PartCars.Add(new PartCar()
                     {
                         Car = car,
-                        Part = part.Part
-                    };
-
-                    car.PartCars.Add(partCar);
+                        PartId = partId
+                    });
                 }
 
                 cars.Add(car);
             }
 
-            context.AddRange(cars);
+            context.Cars.AddRange(cars);
             context.SaveChanges();
 
-            result.AppendLine($"Successfully imported {cars.Count()}.");
+            result.AppendLine($"Successfully imported {cars.Count}.");
+
             return result.ToString().TrimEnd();
         }
         public static string ImportCustomers(CarDealerContext context, string inputJson)
@@ -142,17 +141,14 @@ namespace CarDealer
             result.AppendLine($"Successfully imported {inputCustomersData.Count()}.");
             return result.ToString().TrimEnd();
         }
-        // Not finished !!! 
         public static string ImportSales(CarDealerContext context, string inputJson)
         {
-            var result = new StringBuilder();
             var inputSalesdata = JsonConvert.DeserializeObject<List<Sale>>(inputJson);
 
-            context.AddRange(inputSalesdata);
+            context.Sales.AddRange(inputSalesdata);
             context.SaveChanges();
 
-            result.AppendLine($"Successfully imported {inputSalesdata.Count()}.");
-            return result.ToString();
+            return $"Successfully imported {inputSalesdata.Count}.";
         }
         public static string GetOrderedCustomers(CarDealerContext context)
         {
