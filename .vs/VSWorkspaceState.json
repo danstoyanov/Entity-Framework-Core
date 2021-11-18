@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\08. JSON Processing\\ProductShop"
+    "\\09. XML Processing",
+    "\\09. XML Processing\\ProductShop",
+    "\\09. XML Processing\\ProductShop\\ProductShop"
   ],
-  "SelectedNode": "\\09. XML Processing",
+  "SelectedNode": "\\09. XML Processing\\ProductShop\\ProductShop\\StartUp.cs",
   "PreviewInSolutionExplorer": false
 }
