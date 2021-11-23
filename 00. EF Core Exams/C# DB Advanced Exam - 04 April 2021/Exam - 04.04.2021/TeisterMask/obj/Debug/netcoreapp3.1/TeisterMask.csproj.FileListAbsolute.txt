@@ -46,3 +46,10 @@ C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\00. Exams\C# D
 C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\00. Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.dll
 C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\00. Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.pdb
 C:\Users\dakov\Desktop\My Folder\Entity Framework Core - Oct 2021\00. Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.genruntimeconfig.cache
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\00. EF Core Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.csproj.AssemblyReference.cache
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\00. EF Core Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\00. EF Core Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\00. EF Core Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.AssemblyInfo.cs
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\00. EF Core Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\00. EF Core Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.dll
+C:\Users\dakov\Source\Repos\danstoyanov\Entity-Framework-Core\00. EF Core Exams\C# DB Advanced Exam - 04 April 2021\Exam - 04.04.2021\TeisterMask\obj\Debug\netcoreapp3.1\TeisterMask.pdb

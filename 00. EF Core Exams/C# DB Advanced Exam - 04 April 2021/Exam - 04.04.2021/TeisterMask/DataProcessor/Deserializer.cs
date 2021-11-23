@@ -11,6 +11,9 @@
     using Newtonsoft.Json;
     using TeisterMask.DataProcessor.ImportDto;
     using TeisterMask.Data.Models;
+    using System.Xml.Serialization;
+    using System.IO;
+    using System.Linq;
 
     public class Deserializer
     {
@@ -26,7 +29,28 @@
         {
             var result = new StringBuilder();
 
+            var xmlSerializer = new XmlSerializer(typeof(XmlProjectModel[]), new XmlRootAttribute("Projects"));
+            var xmlProjects = (XmlProjectModel[])xmlSerializer.Deserialize(new StringReader(xmlString));
 
+            foreach (var xmlProject in xmlProjects)
+            {
+                if (!IsValid(xmlProject.OpenDate) || !IsValid(xmlProject.Name))
+                {
+                    result.AppendLine("Invalid data!");
+                    continue;
+                }
+
+                // check tasks - dates = 0;
+                var currTasks = context.Tasks.Where(t => t.Project.Name == xmlProject.Name);
+
+                // later 
+                var project = new Project()
+                {
+                    Name = xmlProject.Name,
+                    OpenDate = xmlProject.OpenDate,
+                    DueDate = xmlProject.DueDate
+                };
+            }
 
 
             return result.ToString().TrimEnd();
