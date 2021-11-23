@@ -14,6 +14,8 @@
     using System.Xml.Serialization;
     using System.IO;
     using System.Linq;
+    using System.Globalization;
+    using TeisterMask.Data.Models.Enums;
 
     public class Deserializer
     {
@@ -34,25 +36,94 @@
 
             foreach (var xmlProject in xmlProjects)
             {
-                if (!IsValid(xmlProject.OpenDate) || !IsValid(xmlProject.Name))
+                if (!IsValid(xmlProject))
                 {
-                    result.AppendLine("Invalid data!");
+                    result.AppendLine(ErrorMessage);
                     continue;
                 }
 
-                // check tasks - dates = 0;
-                var currTasks = context.Tasks.Where(t => t.Project.Name == xmlProject.Name);
+                // we must convert the dates duo and open dates !!!!!
+                //????????
+                //  Parsed Open Date
+                DateTime projectOpenDate;
+                bool isProjectOpenDate = DateTime.TryParseExact(xmlProject.OpenDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out projectOpenDate);
 
-                // later 
+                //  Parsed Duo Date
+                DateTime projectDuoDate;
+                bool isProjectDuoDate = DateTime.TryParseExact(xmlProject.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out projectDuoDate);
+
+                if (xmlProject.DueDate == null || xmlProject.DueDate == string.Empty)
+                {
+                    xmlProject.DueDate = null;
+                }
+
+                if (!isProjectOpenDate)
+                {
+                    result.AppendLine(ErrorMessage);
+                    continue;
+                }
+
                 var project = new Project()
                 {
                     Name = xmlProject.Name,
-                    OpenDate = xmlProject.OpenDate,
-                    DueDate = xmlProject.DueDate
+                    OpenDate = projectOpenDate,
+                    DueDate = projectDuoDate,
                 };
+
+                foreach (var xmlTask in xmlProject.Tasks)
+                {
+                    if (!IsValid(xmlTask))
+                    {
+                        result.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    // we must convert task open date 
+                    DateTime taskOpenDate;
+                    bool isTaskOpenDate = DateTime.TryParseExact(xmlTask.OpenDate, "dd/MM/yyyy", CultureInfo.InvariantCulture,
+                        DateTimeStyles.None, out taskOpenDate);
+
+                    // we must convert task duo date
+                    DateTime taskDuoDate;
+                    bool isTaskDuoDate = DateTime.TryParseExact(xmlTask.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out taskDuoDate);
+
+                    if (!isProjectOpenDate || !isProjectDuoDate)
+                    {
+                        result.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    if ((taskOpenDate < projectOpenDate) || (taskDuoDate > projectDuoDate))
+                    {
+                        result.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    // we must convert the enums !!!
+                    ExecutionType executionType;
+                    bool isExecutionTypeParsed = Enum.TryParse<ExecutionType>(xmlTask.ExecutionType, out executionType);
+
+
+
+                    LabelType labelType;
+                    
+                    var task = new Task()
+                    {
+                        Name = xmlTask.Name,
+                        OpenDate = taskOpenDate,
+                        DueDate = taskDuoDate,
+                        ExecutionType = xmlTask.ExecutionType.Value,
+                        LabelType = xmlTask.LabelType.Value
+                    };
+
+                    project.Tasks.Add(task);
+                }
+
+                context.Projects.Add(project);
+                result.AppendLine($"Successfully imported project - {project.Name} with {project.Tasks.Count()} tasks.");
             }
 
-
+            context.SaveChanges();
             return result.ToString().TrimEnd();
         }
 

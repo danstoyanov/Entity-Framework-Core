@@ -14,13 +14,17 @@ namespace TeisterMask.DataProcessor.ImportDto
         public string Name { get; set; }
 
         [Required]
+        [XmlElement("OpenDate")]
         public string OpenDate { get; set; }
 
         [Required]
-        public string DueTime { get; set; }
+        [XmlElement("DueDate")]
+        public string DueDate { get; set; }
 
+        [XmlElement("ExecutionType")]
         public ExecutionType? ExecutionType { get; set; }
 
+        [XmlElement("LabelType")]
         public LabelType? LabelType { get; set; }
     }
 }
