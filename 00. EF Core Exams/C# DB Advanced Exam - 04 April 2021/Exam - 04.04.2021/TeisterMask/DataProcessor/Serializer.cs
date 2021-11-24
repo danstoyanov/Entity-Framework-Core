@@ -1,9 +1,10 @@
 ﻿namespace TeisterMask.DataProcessor
 {
     using System;
+    using System.Linq;
     using System.Text;
     using Data;
-
+    using Newtonsoft.Json;
     using Formatting = Newtonsoft.Json.Formatting;
 
     public class Serializer
@@ -19,11 +20,11 @@
 
         public static string ExportMostBusiestEmployees(TeisterMaskContext context, DateTime date)
         {
-            var result = new StringBuilder();
-            result.AppendLine("THE CURRENT EXPORT EMPLOYEE IS NOT READY YET !!!");
+            var employeesData = context.Employees.Select(e => e.Username)
+                .ToList();
 
 
-            return result.ToString().TrimEnd();
+            return JsonConvert.SerializeObject(employeesData);
         }
     }
 }

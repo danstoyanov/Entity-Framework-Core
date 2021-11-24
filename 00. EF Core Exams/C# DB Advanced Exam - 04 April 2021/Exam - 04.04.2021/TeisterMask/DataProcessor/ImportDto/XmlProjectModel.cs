@@ -18,7 +18,7 @@ namespace TeisterMask.DataProcessor.ImportDto
 
         [Required]
         [XmlElement("DueDate")]
-        public string? DueDate { get; set; }
+        public string DueDate { get; set; }
 
         [XmlArray("Tasks")]
         public XmlTaskModel[] Tasks { get; set; }

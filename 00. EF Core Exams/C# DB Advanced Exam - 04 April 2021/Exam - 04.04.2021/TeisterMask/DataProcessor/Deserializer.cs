@@ -49,8 +49,11 @@
                 bool isProjectOpenDate = DateTime.TryParseExact(xmlProject.OpenDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out projectOpenDate);
 
                 //  Parsed Duo Date
-                DateTime projectDuoDate;
-                bool isProjectDuoDate = DateTime.TryParseExact(xmlProject.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out projectDuoDate);
+                DateTime projectDuoDateNullable;
+                bool isProjectDuoDate = DateTime.TryParseExact(xmlProject.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out projectDuoDateNullable);
+
+                DateTime? projectDuoDate = projectDuoDateNullable;
+
 
                 if (xmlProject.DueDate == null || xmlProject.DueDate == string.Empty)
                 {
@@ -103,17 +106,22 @@
                     ExecutionType executionType;
                     bool isExecutionTypeParsed = Enum.TryParse<ExecutionType>(xmlTask.ExecutionType, out executionType);
 
-
-
                     LabelType labelType;
-                    
+                    bool isLabelTypeParsed = Enum.TryParse<LabelType>(xmlTask.LabelType, out labelType);
+
+                    if (!isExecutionTypeParsed || !isLabelTypeParsed)
+                    {
+                        result.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
                     var task = new Task()
                     {
                         Name = xmlTask.Name,
                         OpenDate = taskOpenDate,
                         DueDate = taskDuoDate,
-                        ExecutionType = xmlTask.ExecutionType.Value,
-                        LabelType = xmlTask.LabelType.Value
+                        ExecutionType = executionType,
+                        LabelType = labelType,
                     };
 
                     project.Tasks.Add(task);
