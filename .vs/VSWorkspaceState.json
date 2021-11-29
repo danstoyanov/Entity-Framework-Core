@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\00. EF Core Exams",
-    "\\00. EF Core Exams\\C# DB Advanced Retake Exam - 14 August 2020",
-    "\\00. EF Core Exams\\C# DB Advanced Retake Exam - 14 August 2020\\C# DB Advanced Retake Exam - 14 August 2020"
+    "\\00. EF Core Exams\\SOLUTION_2\\SoftJail",
+    "\\00. EF Core Exams\\SOLUTION_2\\SoftJail\\Data",
+    "\\00. EF Core Exams\\SOLUTION_2\\SoftJail\\DataProcessor",
+    "\\00. EF Core Exams\\SOLUTION_2\\SoftJail\\DataProcessor\\ImportDto",
+    "\\00. EF Core Exams\\SOLUTION_2\\SoftJail\\Data\\Models"
   ],
-  "SelectedNode": "\\00. EF Core Exams\\C# DB Advanced Retake Exam - 14 August 2020\\C# DB Advanced Retake Exam - 14 August 2020\\SoftJail.sln",
+  "SelectedNode": "\\00. EF Core Exams\\C# DB Advanced Exam - 08 August 2020",
   "PreviewInSolutionExplorer": false
 }
