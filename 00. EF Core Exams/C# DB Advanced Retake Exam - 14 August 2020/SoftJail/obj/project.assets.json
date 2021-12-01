@@ -5159,11 +5159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dakov\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\00. Exams\\C# DB Advanced Retake Exam - 14 August 2020\\SECOND TRY\\SoftJail\\SoftJail.csproj",
+      "projectUniqueName": "C:\\Users\\dakov\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\00. Exams\\C# DB Advanced Retake Exam - 14 August 2020\\SoftJail\\SoftJail.csproj",
       "projectName": "SoftJail",
-      "projectPath": "C:\\Users\\dakov\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\00. Exams\\C# DB Advanced Retake Exam - 14 August 2020\\SECOND TRY\\SoftJail\\SoftJail.csproj",
+      "projectPath": "C:\\Users\\dakov\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\00. Exams\\C# DB Advanced Retake Exam - 14 August 2020\\SoftJail\\SoftJail.csproj",
       "packagesPath": "C:\\Users\\dakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dakov\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\00. Exams\\C# DB Advanced Retake Exam - 14 August 2020\\SECOND TRY\\SoftJail\\obj\\",
+      "outputPath": "C:\\Users\\dakov\\Desktop\\My Folder\\Entity Framework Core - Oct 2021\\00. Exams\\C# DB Advanced Retake Exam - 14 August 2020\\SoftJail\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
