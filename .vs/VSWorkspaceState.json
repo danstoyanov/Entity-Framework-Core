@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\06. Advanced Querying",
+    "\\06. Advanced Querying\\BookShop",
+    "\\07. C# Auto Mapping Objects"
   ],
-  "SelectedNode": "\\00. EF Core Exams",
+  "SelectedNode": "\\06. Advanced Querying\\BookShop\\StartUp.cs",
   "PreviewInSolutionExplorer": false
 }
