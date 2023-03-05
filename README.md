@@ -1,5 +1,5 @@
-# Entity-Framework-Core
-.NET Core topics and problems from [SoftUni](https://softuni.bg/)
+# 🗃️ Entity-Framework-Core
+.NET Core topics and problems from [SoftUni](https://softuni.bg/).
 
 This repository contains code and resources from the Entity Framework Core course. The course covers the following topics:
 
